@@ -12,7 +12,7 @@ namespace Odev1
             double E = 0;
             Int32 c = 299792458; // Speed of light m/s
 
-            Console.WriteLine("This program calculates your energy according to Einstein's Formula E = mc^2.");
+            Console.WriteLine("This program calculates your energy according to Einstein's Equation: E = mc2.");
 
             while (flag)
             {
