@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev1", "Odev1\Odev1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2a", "Odev2a\Odev2a.csproj", "{A5289EEE-70A6-40D0-AD05-00F88A372327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2b", "Odev2b\Odev2b.csproj", "{87575E7E-33F3-4176-915B-F0C2B8F2C250}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2b", "Odev2b\Odev2b.csproj", "{87575E7E-33F3-4176-915B-F0C2B8F2C250}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{BBE2AA1D-0A9F-4156-9855-2ABDCDBB5B62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
