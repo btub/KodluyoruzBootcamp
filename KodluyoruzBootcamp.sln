@@ -9,10 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2a", "Odev2a\Odev2a.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev2b", "Odev2b\Odev2b.csproj", "{87575E7E-33F3-4176-915B-F0C2B8F2C250}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{BBE2AA1D-0A9F-4156-9855-2ABDCDBB5B62}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B32106BE-C8F4-474D-8633-977DF51DD2AB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,16 +27,9 @@ Global
 		{87575E7E-33F3-4176-915B-F0C2B8F2C250}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87575E7E-33F3-4176-915B-F0C2B8F2C250}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87575E7E-33F3-4176-915B-F0C2B8F2C250}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B32106BE-C8F4-474D-8633-977DF51DD2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B32106BE-C8F4-474D-8633-977DF51DD2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B32106BE-C8F4-474D-8633-977DF51DD2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B32106BE-C8F4-474D-8633-977DF51DD2AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{B32106BE-C8F4-474D-8633-977DF51DD2AB} = {BBE2AA1D-0A9F-4156-9855-2ABDCDBB5B62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0F866E1-BE6C-47C2-A765-F80FEBF18B31}
